@@ -4,7 +4,9 @@
   "description": "A simple currency converter based on fixer.io",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "mocha",
+    "lint": "eslint index.js",
+    "dev": "nodemon"
   },
   "repository": {
     "type": "git",
@@ -24,6 +26,16 @@
   },
   "homepage": "https://github.com/arthurmbandeira/node-currency-converter#readme",
   "dependencies": {
-    "moment": "^2.20.1"
+    "bluebird": "^3.5.1",
+    "lodash": "^4.17.4",
+    "moment": "^2.20.1",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "mocha": "^4.1.0",
+    "nodemon": "^1.14.11"
   }
 }
