@@ -1,5 +1,5 @@
 {
-  "name": "node-currency-converter",
+  "name": "nodejs-currency-converter",
   "version": "1.0.0",
   "description": "A simple currency converter based on fixer.io",
   "main": "index.js",
