@@ -13,20 +13,20 @@ A simple currency converter based on [fixer.io](http://fixer.io).
 This package can be installed using npm
 
 ```
-npm install node-currency-converter
+npm install nodejs-currency-converter
 ```
 
 ### Usage
-Import `node-currency-converter` and use it as a Promise.
+Import `nodejs-currency-converter` and use it as a Promise.
 
 ```
-const convertCurrency = require('node-currency-converter');
+const convertCurrency = require('nodejs-currency-converter');
 
 convertCurrency(1, 'USD', 'BRL').then(response => response);
 ```
 
 ## Issues
-If any issues are found, they can be reported [here](https://github.com/arthurmbandeira/node-currency-converter/issues).
+If any issues are found, they can be reported [here](https://github.com/arthurmbandeira/nodejs-currency-converter/issues).
 
 ## License
 
