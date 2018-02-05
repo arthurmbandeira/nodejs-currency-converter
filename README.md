@@ -1,6 +1,6 @@
 # NodeJS Currency Converter
 
-[![Build Status](https://travis-ci.org/arthurmbandeira/node-currency-converter.svg?branch=master)](https://travis-ci.org/arthurmbandeira/node-currency-converter)
+[![Build Status](https://travis-ci.org/arthurmbandeira/nodejs-currency-converter.svg?branch=master)](https://travis-ci.org/arthurmbandeira/nodejs-currency-converter)
 [![Dependencies Status](https://david-dm.org/arthurmbandeira/node-currency-converter/status.svg)](https://david-dm.org/arthurmbandeira/node-currency-converter/)
 [![DevDependencies Status](https://david-dm.org/arthurmbandeira/node-currency-converter/dev-status.svg)](https://david-dm.org/arthurmbandeira/node-currency-converter/)
 
